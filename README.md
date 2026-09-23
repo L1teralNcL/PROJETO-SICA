@@ -95,9 +95,3 @@ SUCESSO: Arquivo 'exemplo.pdf' recebido com sucesso.
 
 Depois, a opcao 2 mostra o arquivo, e a opcao 3 salva uma copia dele na pasta
 `downloads_cliente`.
-
-## Observacao sobre o enunciado
-
-O PDF solicita fidelidade aos exemplos de entrada e saida, mas nao apresenta
-exemplos concretos. Por isso, foi criado um menu textual objetivo contendo
-exatamente as operacoes exigidas.
